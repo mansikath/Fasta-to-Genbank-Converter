@@ -1,0 +1,12 @@
+LOCUS       pdb|5XZE|F                14 bp    DNA              UNK 01-JAN-1980
+DEFINITION  pdb|5XZE|F Chain F, Mouse cGAS bound to the inhibitor RU332.
+ACCESSION   pdb|5XZE|F
+VERSION     pdb|5XZE|F
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ngtcttcggc aatt
+//
